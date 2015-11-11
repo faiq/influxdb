@@ -20,7 +20,7 @@ It uses the HTTP protocol to communicate with your **InfluxDB** cluster.
 Connecting to an **InfluxDB** database is straightforward. You will need a host
 name, a port and the cluster user credentials if applicable. The default port is
 8086. You can customize these settings to your specific installation via the
-**InfluxDB** configuration file.
+[**InfluxDB** configuration file](https://influxdb.com/docs/v0.9/introduction/installation.html#generate-a-configuration-file).
 
 Thought not necessary for experimentation, you may want to create a new user
 and authenticate the connection to your database.
